@@ -1,0 +1,24 @@
+{
+    "name": "tic-tac-toe",
+    "version": "1.0.0",
+    "description": "A tic-tac-toe game",
+    "main": "index.js",
+    "scripts": {
+      "compile:sass": "node-sass sass/main.scss css/style.css -w"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/jlewczuk/Tac-tac-toe.git"
+    },
+    "author": "Jarosław Lewczuk",
+    "license": "ISC",
+    "bugs": {
+      "url": "https://github.com/jlewczuk/Tac-tac-toe/issues"
+    },
+    "homepage": "https://github.com/jlewczuk/Tac-tac-toe#readme",
+    "devDependencies": {
+      "jest": "^24.9.0",
+      "node-sass": "^4.12.0"
+    }
+  }
+  
